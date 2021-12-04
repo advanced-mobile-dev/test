@@ -1,0 +1,3 @@
+class InternalEvent {}
+
+class VisibleEvent {}
